@@ -82,5 +82,5 @@ Project:
 - [x] Created repository
 - [x] Added Week 01 folder
 - [x] Built Simple Calculator
-- [ ] Built EUR to BRL Converter
+- [x] Built EUR to BRL Converter
 - [ ] Built Celsius to Fahrenheit Converter
